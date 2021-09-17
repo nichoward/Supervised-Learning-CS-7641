@@ -13,11 +13,14 @@ This is the README.txt associated with Nicole Howard's submission for the Superv
 
 Requirements for Running Code 
 ---------------------
-The code was developed using Python 3.9.6 in a jupyter notebook. Installation of the packages needed to run the code can be found commented out at the beginning of the notebook. 
+The code was developed using Python 3.9.6 in a jupyter notebook. Installation of the packages needed to run the code can be found commented out at the beginning of the notebook.
+
 
 Location of Data Files
 ---------------------
 A copy of the data and the outputs of the jupyter notebook can be found at the following link:
 https://github.com/nichoward/Supervised-Learning-CS-7641/blob/master/Supervised%20Learning.ipynb
-The original data was downloaded from Kaggle. https://www.kaggle.com/dhirajnirne/bank-marketing 
-https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=aug_train.csv 
+
+The original data was downloaded from Kaggle. 
+The bank marketing dataset - https://www.kaggle.com/dhirajnirne/bank-marketing 
+THe hr job change dataset - https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=aug_train.csv 
